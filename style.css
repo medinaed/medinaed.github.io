@@ -11,13 +11,22 @@ body, html{
     padding-right: 50%;
 }
 
+.navbar{
+    background-color: transparent;
+   color: white;
+}
 
-
-.nav-item{
+.navbar .navbar-nav .nav-link{
     font-size: 22px;
     padding: 45px;
-    
+    color: white;
 }
+
+.navbar .navbar-nav .nav-link:hover {
+color: black;
+}
+
+
 
 #Intro{
     background: url(./images/DSC_0021.jpg) center center no-repeat;
