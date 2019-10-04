@@ -14,6 +14,7 @@ body, html{
 .navbar{
     background-color: transparent;
    color: white;
+   font-family: 'Playfair Display', serif;
 }
 
 .navbar .navbar-nav .nav-link{
@@ -24,6 +25,10 @@ body, html{
 
 .navbar .navbar-nav .nav-link:hover {
 color: black;
+}
+
+.navbar-toggler-icon{
+    color: white
 }
 
 
