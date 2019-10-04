@@ -1,0 +1,30 @@
+body, html{
+    background-color: black;
+    height: 100%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+  
+}
+
+
+.navbar-nav{
+    padding-right: 50%;
+}
+
+
+
+.nav-item{
+    font-size: 22px;
+    padding: 45px;
+    
+}
+
+#Intro{
+    background: url(./images/DSC_0021.jpg) center center no-repeat;
+    background-size: cover;
+    height:100% ;
+    color: white;
+    display: flex;
+    align-items: center;
+}
+
