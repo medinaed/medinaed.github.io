@@ -1,0 +1,41 @@
+body, html{
+    background-color: black;
+    height: 100%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+  
+}
+
+
+
+.navbar{
+    background-color: transparent;
+   color: white;
+   font-family: 'Playfair Display', serif;
+}
+
+.navbar .navbar-nav .nav-link{
+    font-size: 22px;
+    padding: 45px;
+    color: white;
+}
+
+.navbar .navbar-nav .nav-link:hover {
+color: black;
+}
+
+.navbar-toggler-icon{
+    color: white
+}
+
+
+
+#Intro{
+    background: url(./images/DSC_0021.jpg) center center no-repeat;
+    background-size: cover;
+    height:100% ;
+    color: white;
+    display: flex;
+    align-items: center;
+}
+
